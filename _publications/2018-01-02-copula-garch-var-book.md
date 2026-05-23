@@ -1,4 +1,3 @@
-
 ---
 title: "Conditional Copula-GARCH Methods for Value at Risk of Portfolio"
 collection: publications

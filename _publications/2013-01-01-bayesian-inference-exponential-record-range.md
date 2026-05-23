@@ -1,4 +1,3 @@
-
 ---
 title: "Bayesian Inference for Exponential Distribution Based on Upper Record Range"
 collection: publications

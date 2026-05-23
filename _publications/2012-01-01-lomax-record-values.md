@@ -1,4 +1,3 @@
-
 ---
 title: "Statistical Inferences for Lomax Distribution Based on Record Values"
 collection: publications

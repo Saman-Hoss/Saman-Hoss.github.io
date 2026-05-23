@@ -1,4 +1,3 @@
-
 ---
 title: "A New Approach to Statistical Inference for Exponential Distribution Based on Record Values"
 collection: publications

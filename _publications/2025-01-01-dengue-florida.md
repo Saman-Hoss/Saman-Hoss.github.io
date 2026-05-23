@@ -1,4 +1,3 @@
-
 ---
 title: "A Two-Parameter, Minimal-Data Model to Predict Dengue Cases: The 2022--2023 Outbreak in Florida, USA"
 collection: publications

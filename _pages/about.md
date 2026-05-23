@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Saman Hosseini"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Saman Hosseini
 
 I am a Ph.D. candidate in Electrical and Computer Engineering at Kansas State University, working in the area of mathematical and statistical modeling of infectious diseases. My research focuses on vector-borne diseases, especially West Nile virus and dengue, with an emphasis on epidemic forecasting, risk assessment, and data-parsimonious modeling.
 

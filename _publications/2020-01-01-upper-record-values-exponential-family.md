@@ -1,4 +1,3 @@
-
 ---
 title: "Maximum Likelihood Estimations Based on Upper Record Values for Probability Density Function and Cumulative Distribution Function in Exponential Family and Investigating Some of Their Properties"
 collection: publications

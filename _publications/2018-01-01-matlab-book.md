@@ -1,4 +1,3 @@
-
 ---
 title: "A Brief Introduction to MATLAB for Science and Engineering Students"
 collection: publications

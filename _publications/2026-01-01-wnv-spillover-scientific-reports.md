@@ -1,4 +1,3 @@
-
 ---
 title: "A Data-Parsimonious Model for Long-Term Risk Assessments of West Nile Virus Spillover"
 collection: publications

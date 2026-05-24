@@ -2,7 +2,7 @@
 title: "Data-Parsimonious Risk Assessment and Forecasting for Dengue"
 collection: portfolio
 permalink: /portfolio/dengue-risk-assessment/
-date: 2025-01-02
+date: 2023-01-02
 excerpt: "A data-parsimonious modeling framework for dengue risk assessment and outbreak forecasting using limited epidemiological information."
 ---
 

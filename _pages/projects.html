@@ -1,1 +1,18 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
 
+{% include base_path %}
+
+<p>
+My research projects focus on data-parsimonious risk assessment for vector-borne diseases. A central goal of my work is to develop models that are not site-specific and can be adapted across different geographic regions, especially when detailed local surveillance data are limited. My current work focuses primarily on West Nile virus and dengue.
+</p>
+
+<h2>Research Projects</h2>
+
+{% for post in site.portfolio reversed %}
+  {% include archive-single.html %}
+{% endfor %}

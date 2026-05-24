@@ -8,7 +8,6 @@ date: 2012-01-01
 location: "Erbil, Kurdistan Region, Iraq"
 ---
 
-I have taught mathematics, statistics, and programming-related courses at several universities and institutes. My teaching experience includes full-time lecturer positions in departments of computer science, accounting, business information technology, and related academic programs.
 
 Teaching positions:
 

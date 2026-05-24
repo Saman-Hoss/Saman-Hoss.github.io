@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/Kstate.jpg" alt="Kansas State University" width="900">
-
 I am a Ph.D. candidate in Electrical and Computer Engineering at Kansas State University, working in the area of mathematical and statistical modeling of infectious diseases. My research focuses on vector-borne diseases, especially West Nile virus and dengue, with an emphasis on epidemic forecasting, risk assessment, and data-parsimonious modeling.
 
 My work combines compartmental modeling, Bayesian/statistical methods, network-based epidemic models, and computational simulation to study how infectious diseases spread across populations and locations. I am particularly interested in developing models that can provide useful predictions from limited surveillance data, especially when detailed entomological or site-specific data are unavailable.

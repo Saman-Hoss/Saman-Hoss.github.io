@@ -5,7 +5,8 @@ type: "Lecturer experience"
 permalink: /teaching/2012-2022-lecturer-experience
 venue: "Universities and institutes in the Kurdistan Region of Iraq"
 date: 2012-01-01
-location: "Erbil, Kurdistan Region, Iraq"
+location: "Erbil, Kurdistan Region of Iraq"
+excerpt: "Lecturer experience in mathematics, statistics, programming, and quantitative courses at universities and institutes in the Kurdistan Region of Iraq."
 ---
 
 I taught mathematics, statistics, and programming-related courses at several universities and institutes in the Kurdistan Region of Iraq. My teaching experience includes full-time lecturer positions in departments of computer science, accounting, business information technology, and related academic programs.

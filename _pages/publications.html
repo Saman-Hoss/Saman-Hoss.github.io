@@ -14,24 +14,22 @@ author_profile: true
 
 {% include base_path %}
 
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% assign sorted_publications = site.publications | sort: "date" | reverse %}
-    {% for post in sorted_publications %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2>
-        <hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
+{% assign sorted_publications = site.publications | sort: "date" | reverse %}
+
+<h2>Journal Articles and Manuscripts</h2>
+<hr />
+
+{% for post in sorted_publications %}
+  {% if post.category == "papers" %}
     {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% endif %}
+{% endfor %}
+
+<h2>Books</h2>
+<hr />
+
+{% for post in sorted_publications %}
+  {% if post.category == "books" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}

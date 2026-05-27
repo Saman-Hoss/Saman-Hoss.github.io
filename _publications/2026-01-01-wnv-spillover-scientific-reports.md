@@ -3,7 +3,7 @@ title: "A Data-Parsimonious Model for Long-Term Risk Assessments of West Nile Vi
 collection: publications
 category: manuscripts
 permalink: /publication/2026-wnv-spillover-scientific-reports
-excerpt: ""
+excerpt: "oooooooooooooooooooooooooooooo"
 date: 2026-01-01
 venue: "Scientific Reports"
 paperurl: "https://www.nature.com/articles/s41598-026-47413-w"

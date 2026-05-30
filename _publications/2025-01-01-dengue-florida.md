@@ -3,7 +3,7 @@ title: "A Two-Parameter, Minimal-Data Model to Predict Dengue Cases: The 2022--2
 collection: publications
 category: manuscripts
 permalink: /publication/2025-dengue-florida
-excerpt: 'Under review in <i>Under review at PLOS Computational Biology</i>, 2025<br><a href="/publication/2025-dengue-florida/">More information about this work</a>'
+excerpt: 'Under review <i> at Physica A</i>, 2025<br><a href="/publication/2025-dengue-florida/">More information about this work</a>'
 date: 2025-01-01
 venue: " at Physica A"
 paperurl: "https://arxiv.org/pdf/2511.22040.pdf"

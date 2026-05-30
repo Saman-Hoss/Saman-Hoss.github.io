@@ -16,4 +16,4 @@ The talk focused on how the model can capture mosquito dynamics, environmental e
 
 It also discussed how the framework can be used to study the relationship between climate conditions and the severity of spillover risk.
 
-[Slides](https://www.math.ksu.edu/~pietro/Conferences/2025SIAMCS/Siam25_Hosseini.pdf)
+[Slides](https://www.math.ksu.edu/~pietro/Conferences/2025SIAMCS/siam25_Hosseini.pdf)

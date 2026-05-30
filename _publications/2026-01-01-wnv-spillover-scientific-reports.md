@@ -3,7 +3,7 @@ title: "A Data-Parsimonious Model for Long-Term Risk Assessments of West Nile Vi
 collection: publications
 category: manuscripts
 permalink: /publication/2026-wnv-spillover-scientific-reports
-excerpt: "<p>
+excerpt: "<p>A nonacademic summary <p>
 A warm winter and a moderate spring can increase the severity of the risk of spillover to human populations. Our Eco-Epi model indicates that this is the main driver of spillover risk.
 <p>
 The idea behind this model is to simulate a “virtual trap” that can generate samples without relying on physical mosquito traps. Instead of collecting mosquitoes in the field, we use a compartmental model to represent mosquito populations and their dynamics.

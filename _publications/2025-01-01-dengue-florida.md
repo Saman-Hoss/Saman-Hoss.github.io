@@ -3,9 +3,9 @@ title: "A Two-Parameter, Minimal-Data Model to Predict Dengue Cases: The 2022--2
 collection: publications
 category: manuscripts
 permalink: /publication/2025-dengue-florida
-excerpt: 'Published in <i>Under review at PLOS Computational Biology</i>, 2025<br><a href="/publication/2025-dengue-florida/">More information about this work</a>'
+excerpt: 'Under review in <i>Under review at PLOS Computational Biology</i>, 2025<br><a href="/publication/2025-dengue-florida/">More information about this work</a>'
 date: 2025-01-01
-venue: "Under review at Physica A"
+venue: " at Physica A"
 paperurl: "https://arxiv.org/pdf/2511.22040.pdf"
 citation: 'Hosseini, S., Cohnstaedt, L. W., and Scoglio, C. (2025). &quot;A Two-Parameter, Minimal-Data Model to Predict Dengue Cases: The 2022--2023 Outbreak in Florida, USA.&quot; Under review at <i>Physica A</i>.'
 ---

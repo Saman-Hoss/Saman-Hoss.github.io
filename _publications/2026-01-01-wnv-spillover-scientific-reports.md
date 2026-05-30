@@ -19,7 +19,3 @@ By sampling from this virtual trap, we construct a Poisson rate surface that dep
 This model is not site-specific and can be applied in different regions. We tested it across six counties in three states with varying mosquito ecologies and environmental conditions.
 
 Using this approach, the model can predict the long-term risk of spillover to human populations. It also allowed us to identify a relationship between global warming and increased severity of West Nile virus spillover risk.
-
-Recommended citation: Hosseini, S., Cohnstaedt, L. W., Marjani, M., and Scoglio, C. (2026). "A Data-Parsimonious Model for Long-Term Risk Assessments of West Nile Virus Spillover." *Scientific Reports*.
-
-[Download Paper](https://www.nature.com/articles/s41598-026-47413-w)

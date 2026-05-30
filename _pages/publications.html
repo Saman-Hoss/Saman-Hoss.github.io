@@ -21,7 +21,29 @@ author_profile: true
 
 {% for post in sorted_publications %}
   {% if post.category != "books" %}
-    {% include archive-single.html %}
+    <div class="list__item">
+      <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        <h2 class="archive__item-title" itemprop="headline">
+          {{ post.title }}
+        </h2>
+
+        {% if post.venue %}
+          <p>
+            Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          </p>
+        {% endif %}
+
+        <p>
+          <a href="{{ base_path }}{{ post.url }}">More information about this work</a>
+        </p>
+
+        {% if post.paperurl %}
+          <p>
+            <a href="{{ post.paperurl }}">Download Paper</a>
+          </p>
+        {% endif %}
+      </article>
+    </div>
   {% endif %}
 {% endfor %}
 
@@ -30,6 +52,28 @@ author_profile: true
 
 {% for post in sorted_publications %}
   {% if post.category == "books" %}
-    {% include archive-single.html %}
+    <div class="list__item">
+      <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        <h2 class="archive__item-title" itemprop="headline">
+          {{ post.title }}
+        </h2>
+
+        {% if post.venue %}
+          <p>
+            Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          </p>
+        {% endif %}
+
+        <p>
+          <a href="{{ base_path }}{{ post.url }}">More information about this work</a>
+        </p>
+
+        {% if post.paperurl %}
+          <p>
+            <a href="{{ post.paperurl }}">Download Paper</a>
+          </p>
+        {% endif %}
+      </article>
+    </div>
   {% endif %}
 {% endfor %}

@@ -7,7 +7,6 @@ excerpt: 'Under review <i> at Physica A</i>, 2025<br><a href="/publication/2025-
 date: 2025-01-01
 venue: " at Physica A"
 paperurl: "https://arxiv.org/pdf/2511.22040.pdf"
-citation: 'Hosseini, S., Cohnstaedt, L. W., and Scoglio, C. (2025). &quot;A Two-Parameter, Minimal-Data Model to Predict Dengue Cases: The 2022--2023 Outbreak in Florida, USA.&quot; Under review at <i>Physica A</i>.'
 ---
 
 To predict the number of dengue cases, we developed a minimal-data model with only two parameters that uses only the time series of reported human cases during the target outbreak.

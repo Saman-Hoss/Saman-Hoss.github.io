@@ -9,7 +9,7 @@ venue: "Scientific Reports"
 paperurl: "https://www.nature.com/articles/s41598-026-47413-w"
 citation: 'Hosseini, S., Cohnstaedt, L. W., Marjani, M., and Scoglio, C. (2026). &quot;A Data-Parsimonious Model for Long-Term Risk Assessments of West Nile Virus Spillover.&quot; <i>Scientific Reports</i>.'
 ---
-
+<p>Non academic summary:<p>
 A warm winter and a moderate spring can increase the severity of the risk of spillover to human populations. The Eco-Epi model indicates that these seasonal conditions are important drivers of spillover risk.
 
 The idea behind this model is to simulate a “virtual trap” that can generate samples without relying on physical mosquito traps. Instead of collecting mosquitoes in the field, we use a compartmental model to represent mosquito populations and their dynamics.

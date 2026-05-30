@@ -3,10 +3,11 @@ title: "A Data-Parsimonious Model for Long-Term Risk Assessments of West Nile Vi
 collection: publications
 category: manuscripts
 permalink: /publication/2026-wnv-spillover-scientific-reports
-excerpt: "A nonacademic summary: The idea od the model came from the point what if we simulate a virtual trap and get samples from that virtual samples instead of mosquito traps. This virtual trapm in this work was simulated using a compartmental model.
-Based on sampling from this virtual trap we make aPoisson surface rate which was afunction of temperature and virtual mosquito abundance.
-This model were able to predict long term risk of spillover to human population.
-Also we could detect the effect of global warmin on WNV using this model."
+excerpt: "A non-academic summary: The idea behind this model was to simulate a “virtual trap” that generates samples, instead of relying on physical mosquito traps. In this work, the virtual trap was created using a compartmental model.
+
+By sampling from this virtual trap, we constructed a Poisson rate surface as a function of temperature and virtual mosquito abundance. Using this framework, the model was able to predict the long-term risk of spillover to human populations.
+
+Additionally, the model allowed us to assess the impact of global warming on West Nile virus transmission dynamics."
 date: 2026-01-01
 venue: "Scientific Reports"
 paperurl: "https://www.nature.com/articles/s41598-026-47413-w"
